@@ -1,0 +1,6 @@
+{
+  "name": "Power-Viz (PACA)",
+  "description": "Automated Converter Analyzer for PSIM/MATLAB simulation CSV data. Calculates efficiency, ripple, and performs FFT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
